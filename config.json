@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendync",
+        "uuid": 17696430,
+        "checksum": "7p0rga"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
